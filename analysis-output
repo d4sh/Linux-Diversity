@@ -1,0 +1,171 @@
+GIMP 
+
+          arch debian devuan fedora opensuse slackware  ubuntu
+arch        68     57     57     59       67        51      57
+debian       -     70     65     65       57        53      68
+devuan       -      -     65     60       57        53      63
+fedora       -      -      -     71       60        54      65
+opensuse     -      -      -      -       72        52      57
+slackware    -      -      -      -        -        71      53
+ubuntu       -      -      -      -        -         -      68
+['arch', 'debian', 'devuan', 'fedora', 'opensuse', 'slackware', 'ubuntu']
+
+
+
+VLC 
+
+          arch debian devuan fedora opensuse slackware  ubuntu
+arch        15     15      9     14       15         9      15
+debian       -     17      9     15       15         9      15
+devuan       -      -      9      8        9         9       9
+fedora       -      -      -     21       15         8      14
+opensuse     -      -      -      -       16         9      15
+slackware    -      -      -      -        -         9       9
+ubuntu       -      -      -      -        -         -      15
+['arch', 'debian', 'devuan', 'fedora', 'opensuse', 'slackware', 'ubuntu']
+
+
+
+Keepassxc 
+
+          arch debian devuan fedora opensuse slackware  ubuntu
+arch        49     44     40     46       47        30      43
+debian       -     85     81     42       42        43      70
+devuan       -      -     83     38       39        45      67
+fedora       -      -      -     53       46        30      40
+opensuse     -      -      -      -       50        29      41
+slackware    -      -      -      -        -        54      32
+ubuntu       -      -      -      -        -         -      81
+['arch', 'debian', 'devuan', 'fedora', 'opensuse', 'slackware', 'ubuntu']
+
+
+
+Chromium 
+
+          arch debian devuan fedora opensuse slackware  ubuntu
+arch       145    124    124    104      133        70      90
+debian       -    151    151     93      124        67      81
+devuan       -      -    151     93      124        67      81
+fedora       -      -      -    314      106        68      92
+opensuse     -      -      -      -      148        70      91
+slackware    -      -      -      -        -        88      65
+ubuntu       -      -      -      -        -         -      94
+['arch', 'debian', 'devuan', 'fedora', 'opensuse', 'slackware', 'ubuntu']
+
+
+
+Firefox 
+
+          arch debian devuan fedora opensuse slackware  ubuntu
+arch         7      7      7      7        7         7       7
+debian       -      7      7      7        7         7       7
+devuan       -      -      7      7        7         7       7
+fedora       -      -      -      7        7         7       7
+opensuse     -      -      -      -        7         7       7
+slackware    -      -      -      -        -         7       7
+ubuntu       -      -      -      -        -         -       7
+['arch', 'debian', 'devuan', 'fedora', 'opensuse', 'slackware', 'ubuntu']
+
+
+
+Audacity 
+
+          arch debian devuan fedora opensuse slackware  ubuntu
+arch       103     84     84     73       78        55      84
+debian       -    149    146     83       82        59     145
+devuan       -      -    147     83       82        59     143
+fedora       -      -      -     88       76        56      83
+opensuse     -      -      -      -       96        58      82
+slackware    -      -      -      -        -        83      58
+ubuntu       -      -      -      -        -         -     147
+['arch', 'debian', 'devuan', 'fedora', 'opensuse', 'slackware', 'ubuntu']
+
+
+
+Libreoffice 
+
+          arch debian devuan fedora opensuse slackware  ubuntu
+arch       134     85     83    132      101       112     100
+debian       -    120    118     90       95        82     100
+devuan       -      -    118     88       93        82      98
+fedora       -      -      -    142      106       115     103
+opensuse     -      -      -      -      117        83     108
+slackware    -      -      -      -        -       140      82
+ubuntu       -      -      -      -        -         -     124
+['arch', 'debian', 'devuan', 'fedora', 'opensuse', 'slackware', 'ubuntu']
+
+
+
+InkScape 
+
+          arch debian devuan fedora opensuse slackware  ubuntu
+arch       111     91     91     88      101        81      90
+debian       -    111    107    100       94        91     108
+devuan       -      -    107     96       94        91     104
+fedora       -      -      -    115       90        86      98
+opensuse     -      -      -      -      116        85      93
+slackware    -      -      -      -        -       123      88
+ubuntu       -      -      -      -        -         -     108
+['arch', 'debian', 'devuan', 'fedora', 'opensuse', 'slackware', 'ubuntu']
+
+
+
+                      Library
+                        count
+Application OS               
+Audacity    arch          103
+            debian        149
+            devuan        147
+            fedora         88
+            opensuse       96
+            slackware      83
+            ubuntu        147
+Chromium    arch          145
+            debian        151
+            devuan        151
+            fedora        314
+            opensuse      148
+            slackware      88
+            ubuntu         94
+Firefox     arch            7
+            debian          7
+            devuan          7
+            fedora          7
+            opensuse        7
+            slackware       7
+            ubuntu          7
+GIMP        arch           68
+            debian         70
+            devuan         65
+            fedora         71
+            opensuse       72
+            slackware      71
+            ubuntu         68
+InkScape    arch          111
+            debian        111
+            devuan        107
+            fedora        115
+            opensuse      116
+            slackware     123
+            ubuntu        108
+Keepassxc   arch           49
+            debian         85
+            devuan         83
+            fedora         53
+            opensuse       50
+            slackware      54
+            ubuntu         81
+Libreoffice arch          134
+            debian        120
+            devuan        118
+            fedora        142
+            opensuse      117
+            slackware     140
+            ubuntu        124
+VLC         arch           15
+            debian         17
+            devuan          9
+            fedora         21
+            opensuse       16
+            slackware       9
+            ubuntu         15
